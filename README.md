@@ -1,8 +1,22 @@
 # DCLNet  
  
 ## Results   
-Coming Soon....     
+Our prediction maps can be download from BaiduYun:   
+PVT：https://pan.baidu.com/s/1pxV5-NI4uO9B9ZnxmqUvkA?pwd=j1uq (code：j1uq)      
+
+## Citation    
+If you find this project useful for your research, please use the following BibTeX entry.  
+```
+@inproceedings{FGNet2025,
+  author={Qiang Yu, Qing Zhang*, Yanjiao Shi, Qiangqiang Zhou},
+  booktitle={International Joint Conference on Neural Networks, 2025}, 
+  title={FGNet: Feature Calibration and Guidance Refinement for Camouflaged Object Detection}, 
+  year={2025}
+}
+```
 
 ## Contact Us:  
-If you have any questions, please contact Qing Zhang at zhangqing0329@gmail.com   
+If you have any questions, please contact Qing Zhang at zhangqing0329@gmail.com  
+
+
  
